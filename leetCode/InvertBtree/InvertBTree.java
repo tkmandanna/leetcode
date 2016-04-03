@@ -69,7 +69,7 @@ class BTree
 		
 	}
 
-	public Node invertTree2(Node root)// method to invert a binary tree using recursion
+	public Node invertTree2(Node root)// method to invert a binary tree using iteratively
         {
             /*                                 4                        4
                                               /  \                     / \
